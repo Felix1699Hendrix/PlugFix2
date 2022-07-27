@@ -18,12 +18,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     GoogleSignInClient mGoogleSignInClient;
     int RC_SIGN_IN = 200;
-
+    SignInButton signInButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        signInButton = findViewById(R.id.sign_in_button);
+        signInButton.setOnClickListener(this);
     }
 
     public void onClick(View view) {
