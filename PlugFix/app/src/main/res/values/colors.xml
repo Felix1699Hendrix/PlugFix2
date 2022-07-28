@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="Bg_color_lightBlue">#B8CBE8</color>
+    <color name="backgroung_activity">#F0F0F0</color>
+    <color name="color_del_texto">#263238</color>
 </resources>

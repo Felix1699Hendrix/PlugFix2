@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PlugFix</string>
+    <string name="menu_servicio_tecnico">Servicio Tecnico</string>
+    <string name="menu_partes_computadora">Partes de Computador</string>
 </resources>
