@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903258024465",
+    "project_id": "plugfix-357602",
+    "storage_bucket": "plugfix-357602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903258024465:android:b53abb785ddf2426c75fb0",
+        "android_client_info": {
+          "package_name": "com.example.plugfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903258024465-4f4j177rqhl0k56f4k6lvd6dc6k3aur6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAih7CP4H80E3pgtxd3UmQqi0fJAWvk3AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903258024465-4f4j177rqhl0k56f4k6lvd6dc6k3aur6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

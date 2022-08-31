@@ -25,16 +25,17 @@ public class ParteComputadoraActivity extends AppCompatActivity {
     private void llenarListado() {
         List<String> lstHerramientas = new ArrayList<String>();
         lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
-        lstHerramientas.add("Mouse1");
+        lstHerramientas.add("Mouse2");
+        lstHerramientas.add("Mouse3");
+        lstHerramientas.add("Mouse4");
+        lstHerramientas.add("Mouse5");
+        lstHerramientas.add("Mouse6");
+        lstHerramientas.add("Mouse7");
+        lstHerramientas.add("Mouse8");
+        lstHerramientas.add("Mouse9");
+        lstHerramientas.add("Mouse10");
+        lstHerramientas.add("Mouse11");
+        lstHerramientas.add("Mouse12");
         PartesAdapter partesAdapter = new PartesAdapter(lstHerramientas, this);
         rvItems.setHasFixedSize(true);
         rvItems.setAdapter(partesAdapter);
